@@ -1,6 +1,6 @@
 # Flight Fare Prediction
 
-<img src="Images/used_cars.jpg">
+<img src="Air-india.jpg">
 
 ### Overview
 
